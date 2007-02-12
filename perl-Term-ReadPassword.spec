@@ -6,7 +6,7 @@
 %define		pdir	Term
 %define		pnam	ReadPassword
 Summary:	Term::ReadPassword - asking the user for a password
-Summary(pl):	Term::ReadPassowrd - pytanie uøytkownika o has≥o
+Summary(pl.UTF-8):   Term::ReadPassowrd - pytanie u≈ºytkownika o has≈Ço
 Name:		perl-Term-ReadPassword
 Version:	0.07
 Release:	1
@@ -26,8 +26,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This module lets you ask the user for a password in the traditional
 way, from the keyboard, without echoing.
 
-%description -l pl
-Ten modu≥ pozwala zapytaÊ uøytkownika o has≥o w tradycyjny sposÛb - z
+%description -l pl.UTF-8
+Ten modu≈Ç pozwala zapytaƒá u≈ºytkownika o has≈Ço w tradycyjny spos√≥b - z
 klawiatury, bez echa.
 
 %prep
