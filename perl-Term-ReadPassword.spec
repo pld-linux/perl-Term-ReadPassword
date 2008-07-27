@@ -9,7 +9,7 @@ Summary:	Term::ReadPassword - asking the user for a password
 Summary(pl.UTF-8):	Term::ReadPassowrd - pytanie użytkownika o hasło
 Name:		perl-Term-ReadPassword
 Version:	0.07
-Release:	1
+Release:	2
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
