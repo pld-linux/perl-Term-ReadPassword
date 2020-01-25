@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_with	tests		# perform "make test" (interactive)
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Term
 %define		pnam	ReadPassword
 Summary:	Term::ReadPassword - asking the user for a password
