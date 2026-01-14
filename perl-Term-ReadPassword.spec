@@ -8,7 +8,7 @@ Summary:	Term::ReadPassword - asking the user for a password
 Summary(pl.UTF-8):	Term::ReadPassowrd - pytanie użytkownika o hasło
 Name:		perl-Term-ReadPassword
 Version:	0.11
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
